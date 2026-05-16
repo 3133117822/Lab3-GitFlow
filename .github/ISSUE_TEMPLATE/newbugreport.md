@@ -1,3 +1,12 @@
+---
+name: newBugReport
+about: Standard bug report template for this project.
+title: "[Bug]: "
+labels: bug, triage
+assignees: '3133117822'
+
+---
+
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
